@@ -32,7 +32,7 @@ MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] F:\Palle Technol
 		INJECTED from F:\Palle Technology\New_Google_Exmpl\MobileTheftSecurity\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Palle Technology\New_Google_Exmpl\MobileTheftSecurity\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from F:\Palle Technology\New_Google_Exmpl\MobileTheftSecurity\app\src\main\AndroidManifest.xml:8:9-34
+		ADDED from F:\Palle Technology\New_Google_Exmpl\MobileTheftSecurity\app\src\main\AndroidManifest.xml:8:9-35
 		INJECTED from F:\Palle Technology\New_Google_Exmpl\MobileTheftSecurity\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Palle Technology\New_Google_Exmpl\MobileTheftSecurity\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE

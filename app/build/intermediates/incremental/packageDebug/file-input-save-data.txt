@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Sep 23 12:21:56 IST 2017
+#Sat Sep 23 13:33:06 IST 2017
 8.set=ANDROID_RESOURCE
 1.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
 1.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\myaccount.xml
@@ -11,18 +11,17 @@
 5.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
 7.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
 7.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\background.jpg
-11.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_panicsettings.xml
+11.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\edittextellipsedbackground.xml
 11.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
 9.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
-9.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
-13.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_resetpassword.xml
+9.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+13.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
 13.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
 11.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
-15.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\socialperson.png
+15.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 15.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
-18.set=ANDROID_RESOURCE
-17.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+17.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\back.png
 17.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
 7.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
@@ -39,21 +38,19 @@
 6.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
 6.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_options.xml
 10.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
-10.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+10.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_panicsettings.xml
 13.set=ANDROID_RESOURCE
 8.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
-8.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+8.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
 2.set=ANDROID_RESOURCE
-12.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\edittextellipsedbackground.xml
+12.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_resetpassword.xml
 12.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
-14.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+14.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\socialperson.png
 14.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
-16.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+16.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 16.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
 9.set=ANDROID_RESOURCE
-count=19
-18.file=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\back.png
-18.base=F\:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=18
 16.set=ANDROID_RESOURCE
 5.set=DEX
 12.set=ANDROID_RESOURCE
