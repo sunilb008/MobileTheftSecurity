@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_options.xml",
+        "source": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\src\\main\\res\\layout\\activity_options.xml"
+    },
+    {
+        "merged": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_panicsettings.xml",
+        "source": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\src\\main\\res\\layout\\activity_panicsettings.xml"
+    },
+    {
+        "merged": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myaccount.xml",
+        "source": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\src\\main\\res\\layout\\myaccount.xml"
+    },
+    {
+        "merged": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetpassword.xml",
+        "source": "F:\\Palle Technology\\New_Google_Exmpl\\MobileTheftSecurity\\app\\src\\main\\res\\layout\\activity_resetpassword.xml"
+    }
+]
