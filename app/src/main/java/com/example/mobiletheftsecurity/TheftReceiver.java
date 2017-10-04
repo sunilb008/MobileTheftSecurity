@@ -28,7 +28,7 @@ import android.widget.Toast;
 
 public class TheftReceiver extends BroadcastReceiver {
 	MyDataBase mdb;
-	String num;
+	String num,email;
 	SharedPreferences sp;
 	TelephonyManager tm;
 	String simserial1, simserial2 = "";
@@ -63,14 +63,14 @@ public class TheftReceiver extends BroadcastReceiver {
 		@Override
 		public void onLocationChanged(Location location) {
 			// TODO Auto-generated method stub
-			c_lat = location.getLatitude();
 
+			c_lat = location.getLatitude();
 			c_long = location.getLongitude();
 			getAddress();
 			Toast.makeText(c, c_lat + "," + c_long, Toast.LENGTH_LONG).show();
-			Intent in = new Intent(c, ChangePassword.class);
-			in.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-			c.startActivity(in);
+			Intent myIntent = new Intent(c, Home.class);
+			myIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+			c.startActivity(myIntent);
 		}
 	};
 
@@ -106,13 +106,21 @@ public class TheftReceiver extends BroadcastReceiver {
 		simserial2=sp.getString("simno",null);
 
 		while (c.moveToNext()) {
-		num=c.getString(1);	
+		num=c.getString(1);
+		email=c.getString(2);
 		}
 		if(!simserial1.equals(simserial2))
 		{
         String messageToSend = ("I lost my phone and the new network is "+network+"/n"+"The latitude and longitude is:"+c_lat+", "+c_long+"/n"+"Adddress:"+address);
         SmsManager.getDefault().sendTextMessage(num, null,
                 messageToSend, null, null);
+			Intent in3=new Intent();
+			in3.setAction(Intent.ACTION_SEND);
+			in3.setType("text/plain");
+			in3.putExtra(Intent.EXTRA_EMAIL,email);
+			in3.putExtra(Intent.EXTRA_SUBJECT,"hello");
+			in3.putExtra(Intent.EXTRA_TEXT,address);
+			context.startActivity(Intent.createChooser(in3,"SEND EMAIL"));
 		}
 	}
 	
@@ -121,7 +129,7 @@ public class TheftReceiver extends BroadcastReceiver {
 		Toast.makeText(con, "GPS On",Toast.LENGTH_LONG).show();
 
 	    String provider = Settings.Secure.getString(con.getContentResolver(), 
-	    		Settings.Secure.LOCATION_PROVIDERS_ALLOWED);   
+	    		Settings.Secure.LOCATION_PROVIDERS_ALLOWED);
 	    if(!provider.contains("gps"))
 	    {      
 	        final Intent poke = new Intent();  

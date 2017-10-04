@@ -29,6 +29,7 @@ public class MyDataBase {
         cv.put("num",n);
         cv.put("email",m);
         sdb.insert("contacts", null,cv);
+		//Toast.makeText(,"Inserted data"+cv,Toast.LENGTH_LONG).show();
 	}
     public Cursor retrieveData() 
     {

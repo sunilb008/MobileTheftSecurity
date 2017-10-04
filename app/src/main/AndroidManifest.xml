@@ -32,9 +32,16 @@
         <activity android:name="Settings"></activity>
         <activity android:name="CreateAccount"></activity>
         <activity android:name="Login"></activity>
-        <receiver android:name="TheftReceiver">
+        <receiver
+            android:name="TheftReceiver"
+            android:enabled="true"
+            android:exported="true">
             <intent-filter >
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.BOOT_COMPLETED">
+                </action>
+                <action android:name="android.intent.action.REBOOT">
+
+                </action>
             </intent-filter>
         </receiver>
     </application>
